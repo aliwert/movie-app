@@ -17,19 +17,21 @@ body {
   align-items: flex-end;
 }
 
+
 #searchInput {
-  padding: 5px;
+  padding: 10px;
   border-radius: 50px;
-  background-color: transparent;
+  box-shadow: 10px 10px 5px black;
+  background-color: #53597f;
   outline: none;
   margin-top: 15px;
-  margin-right: 25px;
+  margin-right: 30px;
   color: #fff;
 }
 
 #searchInput::placeholder {
-  color: lightgrey;
-  font-size: 12px;
+  color: red;
+  font-size: 15px;
   text-align: center;
 }
 
