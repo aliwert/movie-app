@@ -5,7 +5,7 @@
 # Product List Website
 
 ### Description:
-This project is a film search website designed to allow users to easily search for and discover information about various films. The website provides a user-friendly interface where users can input search queries and receive relevant results about movies.
+This project is a simple web application developed using React, a popular JavaScript library for building user interfaces. The main purpose of this application is to display a list of products along with their details, such as names, descriptions, and prices.
 
 
 ### Features:
