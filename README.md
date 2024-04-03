@@ -20,7 +20,6 @@ Contributions to this project are welcome. If you have any suggestions or would 
 ### Technologies Used
 -HTML<br>
 -CSS<br>
--React.js<br>
 -SASS
 
 
