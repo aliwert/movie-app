@@ -17,7 +17,6 @@ body {
   align-items: flex-end;
 }
 
-
 #searchInput {
   padding: 10px;
   border-radius: 50px;
@@ -35,7 +34,7 @@ body {
   text-align: center;
 }
 
-.movies {
+.films {
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -44,14 +43,14 @@ body {
   margin-top: 15px;
 }
 
-.movie {
+.film {
   margin: 6px;
   width: 260px;
   height: 405px;
   background-color: #53597f;
 }
 
-.moviePicture {
+.filmPicture {
   width: 260px;
   height: 320px;
 }
@@ -64,13 +63,13 @@ body {
   margin-top: 20px;
 }
 
-.movieName {
+.filmName {
   font-size: 13px;
   color: lightgrey;
   margin-right: 10px;
 }
 
-.imdbPoint {
+.rating {
   font-size: 15px;
   color: black;
   background-color: rgb(223, 216, 21);
